@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/riot-merch-clone/static/css/main.e6c13ad2.css",
+    "main.js": "/riot-merch-clone/static/js/main.49435150.js",
+    "static/js/453.db9e0bec.chunk.js": "/riot-merch-clone/static/js/453.db9e0bec.chunk.js",
+    "index.html": "/riot-merch-clone/index.html",
+    "main.e6c13ad2.css.map": "/riot-merch-clone/static/css/main.e6c13ad2.css.map",
+    "main.49435150.js.map": "/riot-merch-clone/static/js/main.49435150.js.map",
+    "453.db9e0bec.chunk.js.map": "/riot-merch-clone/static/js/453.db9e0bec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49435150.js"
+  ]
+}
